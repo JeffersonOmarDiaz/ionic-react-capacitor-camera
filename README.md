@@ -1,6 +1,6 @@
 # ionic-react-capacitor-camera
 
-#[Video](https://youtu.be/DycPJmf4pxY)
+## [Video](https://youtu.be/DycPJmf4pxY)
 
 Se muestra el funcionamiento de una aplicación para tomar fotos usando la documentación oficial y los plugins de capacitor
 
@@ -9,3 +9,13 @@ A continuación se detallan los pasos a seguir para  implementar una aplicación
 https://ionicframework.com/docs/react/your-first-app
 
 https://capacitorjs.com/docs/apis/camera
+
+
+## Integración de los complementos Geolocation y Geocoder
+### Complementos de condensadores para que la funcionalidad nativa de la aplicación funcione
+- npm install @capacitor/camera @capacitor/storage @capacitor/filesystem
+
+### PWA 
+- npm install @ionic/pwa-elements
+
+.......
