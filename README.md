@@ -19,3 +19,8 @@ https://capacitorjs.com/docs/apis/camera
 - npm install @ionic/pwa-elements
 
 .......
+
+#### Creamos dentro del directorio "src/components/" un archivo llamado EmployeelItem.tsx
+
+
+
