@@ -11,7 +11,7 @@ https://ionicframework.com/docs/react/your-first-app
 https://capacitorjs.com/docs/apis/camera
 
 
-## Integración de los complementos Geolocation y Geocoder
+## Integración de los complementos
 ### Complementos de condensadores para que la funcionalidad nativa de la aplicación funcione
 - npm install @capacitor/camera @capacitor/storage @capacitor/filesystem
 
